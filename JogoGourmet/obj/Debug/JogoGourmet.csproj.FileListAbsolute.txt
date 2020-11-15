@@ -1,0 +1,9 @@
+C:\Users\oseiasm3180_00\source\repos\JogoGourmet\JogoGourmet\bin\Debug\JogoGourmet.exe.config
+C:\Users\oseiasm3180_00\source\repos\JogoGourmet\JogoGourmet\bin\Debug\JogoGourmet.exe
+C:\Users\oseiasm3180_00\source\repos\JogoGourmet\JogoGourmet\bin\Debug\JogoGourmet.pdb
+C:\Users\oseiasm3180_00\source\repos\JogoGourmet\JogoGourmet\obj\Debug\JogoGourmet.csprojAssemblyReference.cache
+C:\Users\oseiasm3180_00\source\repos\JogoGourmet\JogoGourmet\obj\Debug\JogoGourmet.FrmInicial.resources
+C:\Users\oseiasm3180_00\source\repos\JogoGourmet\JogoGourmet\obj\Debug\JogoGourmet.Properties.Resources.resources
+C:\Users\oseiasm3180_00\source\repos\JogoGourmet\JogoGourmet\obj\Debug\JogoGourmet.csproj.GenerateResource.cache
+C:\Users\oseiasm3180_00\source\repos\JogoGourmet\JogoGourmet\obj\Debug\JogoGourmet.exe
+C:\Users\oseiasm3180_00\source\repos\JogoGourmet\JogoGourmet\obj\Debug\JogoGourmet.pdb
